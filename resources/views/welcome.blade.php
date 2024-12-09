@@ -286,7 +286,7 @@
     <div class="main">
         <div class="navbar">
             <div class="icon">
-                <h2 class="logo">PraRoz</h2>
+                <h2 class="logo">Habib</h2>
             </div>
 
             <div class="menu">
